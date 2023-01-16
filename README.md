@@ -12,15 +12,17 @@ Other misc repos / projects: [my vim](https://github.com/matagus/vim_files) and 
 
 I'm learning Rust + WebAssembly and Vyper Language for Ethereum Smart Contracts.
 
-Ways to reach me:
+📬 Ways to reach me:
 
-* LinkeIn: https://www.linkedin.com/in/matagus/
+* [LinkeIn](https://www.linkedin.com/in/matagus/)
 * [Stackoverflow](https://stackoverflow.com/users/3219121/matagus)
 * [Goodreads](https://www.goodreads.com/user/show/4930036-matagus)
-* Twitter: https://twitter.com/matagus/
+* [Twitter](https://twitter.com/matagus/)
+* [Calendly](https://calendly.com/matagus/schedule) (Please be specific on the meeting's purpose)
 * matagus at gmail dot com
+* [Issue me](https://github.com/matagus/matagus/issues) :P
 
-Warning: I'm listening to music all the time:
+⚠️ I'm listening to music all the time:
 
 * [Spotify](https://open.spotify.com/user/matagus?si=1784553a162c4743)
 * [Mixcloud](https://www.mixcloud.com/matagus/)
