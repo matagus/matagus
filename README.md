@@ -12,7 +12,7 @@ Other misc repos / projects: [my vim](https://github.com/matagus/vim_files) and 
 
 I'm learning Rust + WebAssembly and Vyper Language for Ethereum Smart Contracts.
 
-📬 Ways to reach me:
+📬 Ways to contact me:
 
 * [LinkeIn](https://www.linkedin.com/in/matagus/)
 * [Stackoverflow](https://stackoverflow.com/users/3219121/matagus)
