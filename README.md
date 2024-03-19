@@ -8,15 +8,15 @@
 * [django-planet](https://github.com/matagus/django-planet): A simple Django app to create a feed aggregator website, aka a planet.
 * [merge-requests-monitor](https://github.com/matagus/merge-requests-monitor): A litte MacOs System Tray app for quickly accessing open Merge Requests in Gitlab.
 
-### Comming soon
+### Coming Soon
 
 * [Keyup](https://github.com/matagus/keyup): A simple, fast & beautiful terminal-based Clickup client.
 * [JiraHub](https://github.com/matagus/jirahub): A web hub to quickly access and browse Jira projects from different accounts.
 
 ### Projects I contributed to
 
-* [PyAR web](https://github.com/PyAr/pyarweb)
-* [django-favit](https://github.com/matagus/django-favit)
+* [Python Argentina Website](https://github.com/PyAr/pyarweb)
+* [streema/django-favit](https://github.com/matagus/django-favit)
 * [Docs for Kindle](https://github.com/pferretti/docsforreaders)
-* [Epcon](https://github.com/EuroPython/epcon)
+* [Epcon Website](https://github.com/EuroPython/epcon)
 * [awesome-vyper](https://github.com/matagus/awesome-vyper)
