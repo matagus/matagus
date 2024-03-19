@@ -12,11 +12,3 @@
 
 * [Keyup](https://github.com/matagus/keyup): A simple, fast & beautiful terminal-based Clickup client.
 * [JiraHub](https://github.com/matagus/jirahub): A web hub to quickly access and browse Jira projects from different accounts.
-
-### Projects I contributed to
-
-* [Python Argentina Website](https://github.com/PyAr/pyarweb)
-* [streema/django-favit](https://github.com/matagus/django-favit)
-* [Docs for Kindle](https://github.com/pferretti/docsforreaders)
-* [Epcon Website](https://github.com/EuroPython/epcon)
-* [awesome-vyper](https://github.com/matagus/awesome-vyper)
