@@ -8,7 +8,4 @@
 * [django-planet](https://github.com/matagus/django-planet?utm_source=github&utm_medium=personal-readme): A simple Django app to create a feed aggregator website, aka a planet.
 * [merge-requests-monitor](https://github.com/matagus/merge-requests-monitor?utm_source=github&utm_medium=personal-readme): A litte MacOs System Tray app for quickly accessing open Merge Requests in Gitlab.
 * [Keyup](https://github.com/matagus/keyup?utm_source=github&utm_medium=personal-readme): A simple, fast & beautiful terminal-based Clickup client written in Python.
-
-### Coming Soon
-
-* [JiraHub](https://github.com/matagus/jirahub?utm_source=github&utm_medium=personal-readme): A web hub to quickly access and browse Jira projects from different accounts.
+* [JiraHub](https://github.com/matagus/jirahub?utm_source=github&utm_medium=personal-readme): A webapp to quickly access and browse Jira projects from different accounts. 
