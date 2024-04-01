@@ -9,3 +9,4 @@
 * [merge-requests-monitor](https://github.com/matagus/merge-requests-monitor?utm_source=github&utm_medium=personal-readme): A litte MacOs System Tray app for quickly accessing open Merge Requests in Gitlab.
 * [Keyup](https://github.com/matagus/keyup?utm_source=github&utm_medium=personal-readme): A simple, fast & beautiful terminal-based Clickup client written in Python. 
 * [JiraHub](https://github.com/matagus/jirahub?utm_source=github&utm_medium=personal-readme): A webapp to quickly access and browse Jira projects from different accounts. Django + HTMX + Cirrus CSS.
+* [django-admin-contexts](https://github.com/matagus/django-admin-contexts&utm_medium=personal-readme): Display only a set of apps and models in the Django Admin homepage, based on the chosen context.
