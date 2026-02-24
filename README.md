@@ -1,7 +1,7 @@
 ### Open Source Projects
 
 * [shelve](https://github.com/matagus/shelve): 🦀 A command-line tool written in Rust to pretty print files grouped by a column or field. #learning #rust
-* [matorral](https://github.com/matorral-project/matorral?utm_source=github&utm_medium=personal-readme): A very simple & extensible project managent system built using Django + HTMX + Bulma.
+* [matorral](https://github.com/matorral-project/matorral?utm_source=github&utm_medium=personal-readme): A very simple & extensible project managent system built using Django + HTMX + Tailwind CSS / DaisyUI.
 * [django-app-starter](https://github.com/matagus/django-app-starter?utm_source=github&utm_medium=personal-readme): A copier template for generating a Django app: pre-commit, test matrix for the latest Dajngo and Python versions, coverage report, Github actions for CI & publish to pypi using hatch + release, Github issues config + templates, labels management, documentation using  MKDocs, and much more.
 * [django-pagination-py3](https://github.com/matagus/django-pagination-py3?utm_source=github&utm_medium=personal-readme): A port of the wonderful ericflo/django-pagination app to Python 3 + Django 4.x and 5.x.
 * [awesome-django-articles](https://github.com/matagus/awesome-django-articles?utm_source=github&utm_medium=personal-readme): A collection of amazing posts abouth Django I learned from.
